@@ -53,7 +53,7 @@ project/
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/Minor-Project-GSE104235.git
+git clone https://github.com/Danish-biobuddy/Minor-Project-GSE104235.git
 cd Minor-Project-GSE104235
 
 
