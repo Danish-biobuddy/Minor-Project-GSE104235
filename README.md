@@ -5,12 +5,7 @@ This project focuses on the **categorization of samples** from the **GSE104235 g
 
 ---
 
-## Project Structure
-project/
-│── code/ # Scripts for data processing, analysis, and visualization
-│── results/ # Processed results including differentially expressed genes
-│── plots/ # Visualizations such as volcano plots, MA plots, and clustering figures
-│── README.md # Project description and instructions
+
 
 
 ---
